@@ -18,3 +18,6 @@
 ## How To Run
 
 - python main.py "rudy" "Rudy Pangestu" "rudy@mekari.com" "1, 3"
+
+## ToDo
+- Atlassian (Bitbucket, Confluence, and Jira)
